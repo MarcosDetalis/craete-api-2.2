@@ -1,6 +1,6 @@
 import { Router } from "express";
 // importacion de los controladores
-import { getRellenos} from '../controllers/Rellenaitems/Rellenos.controller.js';
+import { getRellenos} from '../controllers/Rellenaitems/Rellenos.controllers.js';
 
 const router = Router();
 
